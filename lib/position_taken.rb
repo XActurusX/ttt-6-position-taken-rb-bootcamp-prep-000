@@ -3,5 +3,5 @@ board.each do |space|
   if space = "  "
     return false
   end
-  return true 
+  return true
 end
